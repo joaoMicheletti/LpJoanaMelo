@@ -317,7 +317,6 @@
     background-color: black;
 }
 .secondp1cop {
-    margin-top: -200px;
     text-align: center;
     color: #fe8b1f;
     font-size: 47px;
@@ -340,7 +339,7 @@
 }
 .finalsectio {
     width: 100%;
-    height: 100vh;
+    height: auto;
     display: flex;
     justify-content: center;
     flex-direction: column;
